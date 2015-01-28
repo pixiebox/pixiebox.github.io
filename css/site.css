@@ -26,6 +26,12 @@ h1, h2, h3, h4, h5, h6 {
 	width: 8.75em;
 }
 
+.post {
+	background: #f8f8f8;
+	border: 1px solid #ddd;
+	margin-bottom: 14px;
+	padding: 4px 12px;
+}
 /* google fonts chrome */
 /* latin-ext */
 @font-face {
